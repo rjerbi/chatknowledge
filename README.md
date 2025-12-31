@@ -22,3 +22,6 @@ An AI-powered conversational chatbot with knowledge retrieval, summarization, an
 - **Document Handling:** PDF loading & text splitting
 - **Database:** MongoDB
 - **Environment:** dotenv for managing API keys
+
+## Installation 
+pip install -r requirements.txt
